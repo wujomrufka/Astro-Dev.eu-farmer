@@ -40,4 +40,5 @@ Astro Discord Server - https://discord.gg/pmkubZTbvu
 		slots = 70,
 		weight = 70000,
 		groups = {['farmer'] = 0}
-	}```
+	}
+```
